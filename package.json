@@ -1,0 +1,27 @@
+{
+  "name": "fox-game",
+  "version": "1.0.0",
+  "description": "Tutorial from Frontend Masters",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrlftr/fox-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amrlftr/fox-game/issues"
+  },
+  "homepage": "https://github.com/amrlftr/fox-game#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
+}
